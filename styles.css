@@ -1,0 +1,59 @@
+
+@media screen and (max-width: 992px) {
+  body {
+  background-color: rgb(218, 235, 249);
+  }
+  }
+  body{
+    background-color: rgb(218, 235, 249);
+  }
+   
+  main{
+    
+    font-size: 20px;
+    margin-top: 0px;
+  
+    font-family: 'Open Sans', Arial, sans-serif;
+    line-height: 1.5;
+
+  }
+  #navbar{
+    width: 20%;
+    height: 2300px;
+    padding-left: 10px;
+    font-size: 30px;
+    float: left;
+    background-color:aliceblue;
+    border-right: 2px solid rgb(111, 108, 108);
+    
+    
+  }
+  nav a {
+    display: block;
+    text-decoration:none;
+    color: black;
+    padding-left: 40px;
+    
+    
+  }
+ 
+  nav a:hover{
+    color: rgb(172, 210, 240);
+  }
+
+  
+
+  
+  section{
+    float: right;
+    width: 900px;
+    display: block;
+    background-color: rgb(218, 235, 249);
+    
+    
+  }
+
+  nav h1 {
+    font-size:30px;
+    padding-top: 29px;
+  }
